@@ -1,0 +1,10 @@
+# Constraints
+
+1) The system can only have a max of 4h/month downtime
+    REQ32
+2)You can reach any content within 3 clicks
+    REQ37
+3)A single login will be required
+    REQ38
+4)The system will provide an export to commonly used calander formats
+    REQ47
