@@ -1,2 +1,6 @@
-# User cases
+# Use cases
 
+1)	A student subscribes/unsubscribes to a course and its additional contents. The system keeps track of that information.
+    	REQ8-12
+2)	A student makes a collaborative environment where files and textual content is uploaded. He then sends invitations and messages to his group.
+      REQ13-18
