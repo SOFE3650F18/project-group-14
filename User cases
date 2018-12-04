@@ -3,4 +3,15 @@
 1)	A student subscribes/unsubscribes to a course and its additional contents. The system keeps track of that information.
     	REQ8-12
 2)	A student makes a collaborative environment where files and textual content is uploaded. He then sends invitations and messages to his group.
-      REQ13-18
+        REQ13-18
+3)	A student uses static and dynamic information in order to find course files
+        REQ19-20
+4)	A student that forgot his password is able to recover it. But then decides to change it for security purposes.
+        REQ21-23
+5)	A student gets notifications from a course about new posted data. Because he is not quite interested in that he edits the notification messages to a point that they do not appear anymore.
+        REQ24-25
+6)	A Lecturer Creates a new course with some information from previous courses. Files and data are uploaded to that course. Finally, the grading scheme and the teaching assistant is appointed in the system.
+        REQ48-55
+7)	The lecturer uses a one click system to send a mass email to all students with a predetermines format.
+        REQ56-58
+
