@@ -24,6 +24,12 @@
         REQ88-89
 12)	A lecturer has been making some rather larger file deposits. In order to prevent some system problems the maintainer limits the file size limit and total available space per person. 
         REQ90-91
+13)	An administrator retries all the lecturer information and enter new updated information
+        REQ108-109
+14)	An administrator finds all the grades of the students, courses, departments and passing information statistics for his report.
+        REQ110-116
+        
+
 
 
 
