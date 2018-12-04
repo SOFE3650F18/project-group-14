@@ -22,6 +22,9 @@
         REQ80-81
 11)	A maintainer made a backup for the system. Something turned out to be corrupt so he uses the backup for only a certain part of the system information. 
         REQ88-89
+12)	A lecturer has been making some rather larger file deposits. In order to prevent some system problems the maintainer limits the file size limit and total available space per person. 
+        REQ90-91
+
 
 
 
