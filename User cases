@@ -14,4 +14,15 @@
         REQ48-55
 7)	The lecturer uses a one click system to send a mass email to all students with a predetermines format.
         REQ56-58
+8)	The lecturer specifies enrolment polices for students.
+        REQ59-65
+9)	The lecturer need to make a team for a project for his students. He makes the required teams, assigns people to them and manages the teams if any issues occur. 
+        REQ72-79
+10)	The Lecturer finds grade statistics for his class to know how to move on with teaching and how to balance the next midterm
+        REQ80-81
+11)	A maintainer made a backup for the system. Something turned out to be corrupt so he uses the backup for only a certain part of the system information. 
+        REQ88-89
+
+
+
 
