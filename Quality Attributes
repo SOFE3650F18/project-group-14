@@ -9,7 +9,14 @@
 4)Accessibility
       REQ42-43
 5)Security
-      REQ44-45
+      REQ44-45    REQ83-86
 6)Interperability
-      REQ46-47
+      REQ46-47    REQ87       REQ96       REQ121
+7)Extensibility
+      REQ92       REQ122
+8)Testability
+      REQ93
+9)Scalability
+      REQ94
+ 
       
