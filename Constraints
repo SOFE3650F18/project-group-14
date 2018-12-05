@@ -1,14 +1,14 @@
 # Constraints
 
-1) The system can only have a max of 4h/month downtime
+3) The system can only have a max of 4h/month downtime
     REQ32
-2)You can reach any content within 3 clicks
+4)You can reach any content within 3 clicks
     REQ37
-3)A single login will be required
+5)A single login will be required
     REQ38
-4)The system will provide an export to commonly used calander formats
+6)The system will provide an export to commonly used calander formats
     REQ47
-5)The system should provide a one click function which will mail all students of the course their grade
+7)The system should provide a one click function which will mail all students of the course their grade
     REQ58
-6) Administrative constraints
+8) Administrative constraints
     REQ97-107
