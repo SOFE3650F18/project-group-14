@@ -1,5 +1,6 @@
 # Constraints
-
+1)The system must be accessible through all major web browsers
+2)The system must support low-bandwidth connections
 3) The system can only have a max of 4h/month downtime
     REQ32
 4)You can reach any content within 3 clicks
